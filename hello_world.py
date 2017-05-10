@@ -5,3 +5,5 @@ print(message)
 
 message_2 = "This is also a new message"
 print(message_2)
+
+print("The End!"")
